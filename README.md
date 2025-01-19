@@ -2,9 +2,9 @@
 
 This is a Nutrition Tracker App built with Expo and React Native. Users can take photos of their meals and upload them to get nutritional information. The app allows users to track their daily meals, calories, and macronutrients. 
 
+[Expo Build](https://expo.dev/preview/update?message=its%20perfect%0A-Fixed%20pick%20img%0A-switch%20days%0A-save%20data%20between%20runs%0A-edit%20and%20delete%0A-dummy%20data&updateRuntimeVersion=1.0.0&createdAt=2025-01-19T19%3A35%3A39.554Z&slug=exp&projectId=48e72d46-e522-4280-9d2f-c224e0219dae&group=36ebd70f-47ca-481d-bb7d-3a849a280bb8)
 
 <img src="screenshot.jpg" alt="screenshot" width="200"/>
-
 
 ## Table of Contents
 
