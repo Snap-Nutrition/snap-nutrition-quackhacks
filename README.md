@@ -2,6 +2,10 @@
 
 This is a Nutrition Tracker App built with Expo and React Native. Users can take photos of their meals and upload them to get nutritional information. The app allows users to track their daily meals, calories, and macronutrients. 
 
+
+<img src="screenshot.jpg" alt="screenshot" width="200"/>
+
+
 ## Table of Contents
 
 - [Snap Nutrition](#snap-nutrition)
