@@ -1,0 +1,212 @@
+[
+    {
+        "date": "2025-01-19T11:52:09.259Z",
+        "meals": [
+            {
+                "title": "Breakfast",
+                "calories": 450,
+                "carbs": 33,
+                "protein": 40,
+                "fat": 60
+            },
+            {
+                "title": "Lunch",
+                "calories": 900,
+                "carbs": 40,
+                "protein": 60,
+                "fat": 90
+            },
+            {
+                "title": "Snack",
+                "calories": 200,
+                "carbs": 10,
+                "protein": 10,
+                "fat": 20
+            },
+            {
+                "title": "Dinner",
+                "calories": 700,
+                "carbs": 30,
+                "protein": 45,
+                "fat": 90
+            }
+        ],
+        "calories": 2250,
+        "carbs": 113,
+        "protein": 155,
+        "fat": 260
+    },
+    {
+        "date": "2025-01-18T11:57:03.854Z",
+        "meals": [
+            {
+                "title": "Breaky",
+                "calories": 500,
+                "carbs": 10,
+                "protein": 20,
+                "fat": 30
+            },
+            {
+                "title": "Breaky",
+                "calories": 500,
+                "carbs": 10,
+                "protein": 20,
+                "fat": 30
+            },
+            {
+                "title": "Dinner",
+                "calories": 1000,
+                "carbs": 50,
+                "protein": 90,
+                "fat": 110
+            }
+        ],
+        "calories": 2000,
+        "carbs": 70,
+        "protein": 130,
+        "fat": 170
+    },
+    {
+        "date": "2025-01-17T11:59:54.692Z",
+        "meals": [
+            {
+                "title": "Breakfast",
+                "calories": 400,
+                "carbs": 10,
+                "protein": 20,
+                "fat": 5
+            },
+            {
+                "title": "Lunch",
+                "calories": 1000,
+                "carbs": 50,
+                "protein": 100,
+                "fat": 90
+            }
+        ],
+        "calories": 1400,
+        "carbs": 60,
+        "protein": 120,
+        "fat": 95
+    },
+    {
+        "date": "2025-01-16T12:01:51.009Z",
+        "meals": [
+            {
+                "title": "Breakfast",
+                "calories": 350,
+                "carbs": 25,
+                "protein": 15,
+                "fat": 15
+            },
+            {
+                "title": "snack",
+                "calories": 250,
+                "carbs": 10,
+                "protein": 10,
+                "fat": 12
+            },
+            {
+                "title": "Dinner",
+                "calories": 870,
+                "carbs": 30,
+                "protein": 82,
+                "fat": 67
+            }
+        ],
+        "calories": 1470,
+        "carbs": 65,
+        "protein": 107,
+        "fat": 94
+    },
+    {
+        "date": "2025-01-15T12:03:10.366Z",
+        "meals": [
+            {
+                "title": "Breakfast",
+                "calories": 390,
+                "carbs": 20,
+                "protein": 15,
+                "fat": 25
+            },
+            {
+                "title": "Lunch",
+                "calories": 760,
+                "carbs": 35,
+                "protein": 40,
+                "fat": 55
+            },
+            {
+                "title": "Breakfast",
+                "calories": 700,
+                "carbs": 30,
+                "protein": 45,
+                "fat": 59
+            },
+            {
+                "title": "Dinner",
+                "calories": 700,
+                "carbs": 35,
+                "protein": 50,
+                "fat": 67
+            }
+        ],
+        "calories": 2550,
+        "carbs": 120,
+        "protein": 150,
+        "fat": 206
+    },
+    {
+        "date": "2025-01-14T12:04:17.584Z",
+        "meals": [
+            {
+                "title": "Breakfast",
+                "calories": 200,
+                "carbs": 22,
+                "protein": 23,
+                "fat": 1
+            },
+            {
+                "title": "Lunch",
+                "calories": 550,
+                "carbs": 40,
+                "protein": 50,
+                "fat": 55
+            },
+            {
+                "title": "Dinner",
+                "calories": 600,
+                "carbs": 25,
+                "protein": 29,
+                "fat": 44
+            }
+        ],
+        "calories": 1350,
+        "carbs": 87,
+        "protein": 102,
+        "fat": 100
+    },
+    {
+        "date": "2025-01-13T12:06:12.914Z",
+        "meals": [
+            {
+                "title": "Breakfast",
+                "calories": 500,
+                "carbs": 22,
+                "protein": 28,
+                "fat": 30
+            },
+            {
+                "title": "Breakfast",
+                "calories": 1400,
+                "carbs": 200,
+                "protein": 180,
+                "fat": 140
+            }
+        ],
+        "calories": 1900,
+        "carbs": 222,
+        "protein": 208,
+        "fat": 170
+    }
+]
